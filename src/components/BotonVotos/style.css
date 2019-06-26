@@ -1,0 +1,28 @@
+.botonUp{
+    width:20px;
+	height:20px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(../../icons/267-plus.svg);
+    background-repeat:no-repeat;
+    background-size:10px 10px;
+    background-position: center;
+}
+.botonUp:hover{ 
+    background-color:#9ac7d6;
+    cursor: pointer;
+}
+
+.botonDown{
+    width:20px;
+	height:20px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(../../icons/268-minus.svg);
+    background-repeat:no-repeat;
+    background-size:10px 10px;
+    background-position: center;
+}
+.botonDown:hover{ 
+    background-color:#d68d77;
+    cursor: pointer;
+}
+
